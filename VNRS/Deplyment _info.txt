@@ -1,0 +1,26 @@
+Testnet deployed on - Rinkeyby Testnet
+
+#VNRS Intermediate task
+{
+contract address (VNRS_INTERMEDIATE): 0x63e9aBBF43e395aD6CCb6F17bd068EdA49cf70FF
+deployer address (VNRS_INTERMEDIATE):0x0A231078b1B3BeA3e796f4e95af837e969dfCc93 
+}
+
+#VNRS senior task
+Solution 1 for FrontRunning : Transaction ordering                            
+{
+contract address (VNRS_SENIOR_1):0xD8B09FB501Bf3D9C7c620206A7e51fF913D542A3
+deployer address (VNRS_SENIOR_1):0x0A231078b1B3BeA3e796f4e95af837e969dfCc93
+}
+
+#VNRS senior task
+Solution 2 for FrontRunning : preRegistration               
+{
+contract address (VNRS_SENIOR_2):0x688cA2d6883C5dA9007D379Ba35C479557925C75
+deployer address (VNRS_SENIOR_2):0x0A231078b1B3BeA3e796f4e95af837e969dfCc93
+}
+
+
+Note: 
+1.Detailed description of the solution and approach and functionalities of the solution 
+  are described in details in comments in .sol file. 
